@@ -1,1 +1,4 @@
-# DZ16
+# webpack-template
+
+
+1. Build project `npm run build`
